@@ -2,7 +2,7 @@
 
 Ce document décrit les points de terminaison de l'API de prévisions maritimes et comment les tester à l'aide de `curl`.
 
-**URL de base :** `http://domain/votre_script.php` (remplacez `votre_script.php` par le nom de votre fichier PHP)
+**URL de base :** `http://domain/api
 
 ## Points de terminaison
 
